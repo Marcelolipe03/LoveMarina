@@ -42,7 +42,7 @@ function resizeYesButton() {
 
 function generateMessage(noCount) {
   const messages = [
-    "Nao",
+    "Não",
     "Tem certeza?",
     "To com sdds",
     "Dormiria contigo todos so dias",
